@@ -3,7 +3,7 @@
 >[!NOTE]
 > Desarrollado por Sebastian Urdanegui Bisalaya
 
-En este proyecto utilizo las técnicas de web scraping en la plataforma de ***Transfermarkt*** para extraer el valor de mercado de los jugadores titulares de la selección peruana y la selección argentina en la Fecha 2 de la Copa América 2024.
+En este proyecto utilizo las técnicas de web scraping en la plataforma de **Transfermarkt** para extraer el valor de mercado de los jugadores titulares de la selección peruana y la selección argentina en la Fecha 2 de la Copa América 2024.
 
 <img
 src="https://larazon.pe/wp-content/uploads/2024/03/Peru.jpeg"
